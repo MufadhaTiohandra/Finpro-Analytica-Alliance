@@ -7,4 +7,4 @@ Through the implementation of this model, companies can significantly reduce the
 ![Picture2](https://github.com/MufadhaTiohandra/Finpro-Analytica-Alliance/assets/94730568/e9a54c25-d8c3-46cd-951f-a2a781d60366)
 ![Picture3](https://github.com/MufadhaTiohandra/Finpro-Analytica-Alliance/assets/94730568/b03125e2-a5ab-4b7a-9d89-40eb379dfb4f)
 
-Our full presentation in : [Analytica Alliance - Final Presentation][https://docs.google.com/presentation/d/172Q-BFFOnuVAjpjVEPNawzTiZf6RvJ0CsTi9J_yDJxY/edit?usp=sharing]
+Our full presentation in : [Analytica Alliance - Final Presentation](https://docs.google.com/presentation/d/172Q-BFFOnuVAjpjVEPNawzTiZf6RvJ0CsTi9J_yDJxY/edit?usp=sharing)
